@@ -31,3 +31,9 @@ website:
     search: true
     contents:
       - "index.ipynb"
+      - section: "aws"
+        contents:
+          - "aws/aws.ipynb"
+      - section: "terraform"
+        contents:
+          - "terraform/terraform.ipynb"
