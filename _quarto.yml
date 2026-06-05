@@ -34,6 +34,9 @@ website:
       - section: "aws"
         contents:
           - "aws/aws.ipynb"
+          - "aws/vpc.ipynb"
       - section: "terraform"
         contents:
           - "terraform/terraform.ipynb"
+          - "terraform/tffile.ipynb"
+          - "terraform/provider.ipynb"
