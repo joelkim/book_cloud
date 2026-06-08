@@ -40,3 +40,4 @@ website:
           - "terraform/terraform.ipynb"
           - "terraform/tffile.ipynb"
           - "terraform/provider.ipynb"
+          - "terraform/variable.ipynb"
