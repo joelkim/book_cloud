@@ -39,5 +39,5 @@ website:
         contents:
           - "terraform/terraform.ipynb"
           - "terraform/tffile.ipynb"
-          - "terraform/provider.ipynb"
+          - "terraform/command.ipynb"
           - "terraform/variable.ipynb"
