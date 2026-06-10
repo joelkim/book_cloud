@@ -31,11 +31,15 @@ website:
     search: true
     contents:
       - "index.ipynb"
-      - section: "aws"
+      - section: "아마존 웹 서비스"
         contents:
           - "aws/aws.ipynb"
           - "aws/vpc.ipynb"
-      - section: "terraform"
+          - "aws/igw.ipynb"
+      - section: "구글 클라우드 플랫폼"
+        contents:
+          - "gcp/gcp.ipynb"
+      - section: "테라폼"
         contents:
           - "terraform/terraform.ipynb"
           - "terraform/tffile.ipynb"
