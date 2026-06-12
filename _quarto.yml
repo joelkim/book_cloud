@@ -34,7 +34,8 @@ website:
       - section: "아마존 웹 서비스"
         contents:
           - "aws/aws.ipynb"
-          - "aws/vpc.ipynb"
+          - "aws/ec2.ipynb"
+          - "aws/network.ipynb"
           - "aws/igw.ipynb"
       - section: "구글 클라우드 플랫폼"
         contents:
