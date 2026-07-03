@@ -35,8 +35,10 @@ website:
         contents:
           - "aws/aws.ipynb"
           - "aws/ec2.ipynb"
+          - "aws/storage.ipynb"
           - "aws/network.ipynb"
           - "aws/igw.ipynb"
+          - "aws/iam.ipynb"
       - section: "구글 클라우드 플랫폼"
         contents:
           - "gcp/gcp.ipynb"
