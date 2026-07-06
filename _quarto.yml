@@ -39,6 +39,7 @@ website:
           - "aws/network.ipynb"
           - "aws/igw.ipynb"
           - "aws/iam.ipynb"
+          - "aws/sm.ipynb"
       - section: "구글 클라우드 플랫폼"
         contents:
           - "gcp/gcp.ipynb"
