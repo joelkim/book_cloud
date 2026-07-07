@@ -49,3 +49,4 @@ website:
           - "terraform/tffile.ipynb"
           - "terraform/command.ipynb"
           - "terraform/variable.ipynb"
+          - "terraform/state.ipynb"
