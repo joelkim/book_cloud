@@ -50,3 +50,6 @@ website:
           - "terraform/command.ipynb"
           - "terraform/variable.ipynb"
           - "terraform/state.ipynb"
+          - section: "AWS 구현"
+            contents:
+            - "terraform/aws/role.ipynb"
