@@ -34,6 +34,7 @@ website:
       - section: "아마존 웹 서비스"
         contents:
           - "aws/aws.ipynb"
+          - "aws/compute.ipynb"
           - "aws/ec2.ipynb"
           - "aws/storage.ipynb"
           - "aws/network.ipynb"
